@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-1. A laptop, preferably a Mac or Linux system.  A Windows system can also work by either downloading Git-Bash or using a conference-provided AWS login.
+1. A laptop, preferably a Mac or Linux system.  A Windows system can also work if using a Windows Terminal or PuTTY, and downloading Git-Bash 
 2. Verify that you have git (or Git-Bash on Windows) installed on your system: `git --version` (Note that version 2.30+ is recommended for working with UFS repositories; not required for today). 
    - If you have root privileges on Linux, then you can follow [these instructions for updating your version of git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
    - On MacOS, you could use [Homebrew](https://brew.sh/) package manager to [install git](https://formulae.brew.sh/formula/git). 
