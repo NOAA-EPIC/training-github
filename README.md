@@ -11,6 +11,14 @@
    - If you are on a Windows machine, you can download and install [Git-Bash](https://git-scm.com/download/win).
 3. Next, create a GitHub account if you do not already have one: [GitHub Signup](https://github.com/signup)
 
+4. Clone a repository to your local system using `git` utility to download the slides and presentations:
+   
+   `git clone  https://github.com/NOAA-EPIC/training-github.git`
+   
+   `cd ./training-github`
+   
+    The directory ./training-github/ will contain all of the materials for the tutorial.
+    
 ## Listing of some UFS and EPIC Repositories
 
 | Repository | URL |
